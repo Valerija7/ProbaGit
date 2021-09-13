@@ -18,6 +18,7 @@ public class ProbaGit {
         System.out.println("Начало проекта");
         System.out.println("Первые изменения");
         System.out.println("Очередное изменеие");
+        System.out.println("Еще одно изменение");
         
     }
     
